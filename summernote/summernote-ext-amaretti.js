@@ -27,12 +27,6 @@
       //Remove the .btn-sm class from toolbar
       $toolbar.find(".btn-sm").removeClass("btn-sm");
 
-      //Remove bs panel classes from entire editor
-      $editor.find(".panel").removeClass("panel");
-      $editor.find(".panel-default").removeClass("panel-default");
-      $editor.find(".panel-heading").removeClass("panel-heading");
-      $editor.find(".panel-body").removeClass("panel-body");
-
     }
 
   });
