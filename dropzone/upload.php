@@ -1,5 +1,5 @@
 <?php
-
+/*
 $ds          = DIRECTORY_SEPARATOR;  
  
 $storeFolder = 'uploads';
@@ -16,5 +16,6 @@ if ( !empty($_FILES) && $enable_upload ) {
     move_uploaded_file($tempFile,$targetFile); 
      
 }
+ */
 
 ?>
